@@ -8,7 +8,7 @@
 </h3>
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TMM-TEAM/copyright)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheAnjaliProtectron)
 
 
 
